@@ -16,6 +16,6 @@ public class NuckearPowerPlantDAO {
     public static final String API_KEY = "cb63dd5c0e63edacebf16a18f012596b";
     public static final String CATEGORY_ID = "2889994";
     
-    private NuclearPowerPlantModel nuclearPowerPlant = new NuclearPowerPlantModel():
+    private NuclearPowerPlantModel nuclearPowerPlant = new NuclearPowerPlantModel();
     
 }
